@@ -1,0 +1,11 @@
+# ide
+.idea/
+.vscode/
+# env
+.env.**
+# build
+node_modules/
+build/
+# other
+tmp/
+temp/
